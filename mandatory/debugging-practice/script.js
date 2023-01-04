@@ -1,3 +1,4 @@
+// First commit - Start of the project
 let myLibrary = [];
 
 window.addEventListener("load", function (e) {
